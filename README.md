@@ -13,7 +13,13 @@ override suspend fun getKeyWordQuery(userKeywordInput: String): BitcoinResponse 
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test test
+=======
+manh's version
+
+
+>>>>>>> a190ef516a647f689ae6d565a055ceea94be40c3
 =======
 hello
 hello
